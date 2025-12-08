@@ -1,6 +1,10 @@
 # QuickSortBox
 
-QuickSortBox is a robust desktop utility designed to organize files into categorized directories based on their file extensions. It simplifies file management by automatically moving items such as images, documents, and archives into dedicated folders. The application also lists detailed statistics and includes deduplication capabilities using MD5 hashing to ensure data integrity.
+QuickSortBox is a robust desktop utility designed to organize files into categorized directories based on their file extensions.
+
+## 📥 Download
+**[Click here to download QuickSortBox.exe](https://github.com/abhi3114-glitch/QuickSortBox/raw/main/dist/QuickSortBox.exe)**  
+*(No installation required. Just download and run.)*
 
 ## Features
 
